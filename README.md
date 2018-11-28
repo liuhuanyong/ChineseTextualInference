@@ -19,8 +19,7 @@ ChineseTextualInference project including chinese corpus build and inferecence m
     二, 基于构建起的中文文本蕴含数据集, 尝试完成模型实验  
 
 # 项目架构
-
-[!image][https://github.com/liuhuanyong/ChineseTextualInference/blob/master/image/project_route.png]
+![image](https://github.com/liuhuanyong/ChineseTextualInference/blob/master/image/project_route.png)
 
 # 中文文本蕴含数据集构建
 1,英文文本蕴含数据
