@@ -143,9 +143,10 @@ translate_duba.py
 4, 本项目实现了一个以LSTM进行文本蕴含三分类的模型,准确率不是很高,只有0.54左右,后期还有很大的优化空间
 
 
-
-
-
+any question? 请联系我:
+邮箱:lhy_in_blcu@126.com
+csdn:https://blog.csdn.net/lhy2014
+我的自然语言处理项目: https://liuhuanyong.github.io/
 
 
 
