@@ -142,12 +142,12 @@ translate_duba.py
 3, 原先打算使用百度API进行翻译,但是使用次数有限制,因此转而以金山毒霸代之,使用在线翻译结果  
 4, 本项目实现了一个以LSTM进行文本蕴含三分类的模型,准确率不是很高,只有0.54左右,后期还有很大的优化空间  
 
-
-any question? 请联系我:  
+# contact 
+如有自然语言处理、知识图谱、事理图谱、社会计算、语言资源建设等问题或合作，请联系我:  
 邮箱:lhy_in_blcu@126.com  
 csdn:https://blog.csdn.net/lhy2014  
 我的自然语言处理项目: https://liuhuanyong.github.io/  
-
+刘焕勇，中国科学院软件研究所，lhy_in_blcu@126.com  
 
 
 
